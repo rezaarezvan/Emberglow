@@ -1,0 +1,2 @@
+# Emberglow
+Cozy colorscheme
